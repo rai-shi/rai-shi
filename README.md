@@ -23,8 +23,8 @@
 <a href="https://www.leetcode.com/rai_shi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rai_shi/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19162623/ayse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19162623/ayse" height="30" width="40" /></a>
 <a href="https://medium.com/@aysenurtak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="aysenurtak1" height="30" width="40" /></a>
-<a href="https://www.goodreads.com/user/show/183626538-aysenur-tak" target="blank"><img align="center" src="goodreads" alt="aysenur-tak" height="50" width="60" /></a>
-<a href="https://www.upwork.com/freelancers/~015660c9bbd17ff75a" target="blank"><img align="center" src="upwork-svgrepo-com.svg" alt="Aysenur T." height="50" width="60" /></a>
+<a href="https://www.goodreads.com/user/show/183626538-aysenur-tak" target="blank"><img align="center" src="icon/Goodreads_'g'_logo.svg" alt="aysenur-tak" height="50" width="60" /></a>
+<a href="https://www.upwork.com/freelancers/~015660c9bbd17ff75a" target="blank"><img align="center" src="icon/upwork-svgrepo-com.svg" alt="Aysenur T." height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
