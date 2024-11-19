@@ -14,11 +14,11 @@
 - 🪄 Fun fact **I am also an amateur photographer and an artist** so find me in [cos_micdust](https://instagram.com/cos_micdust)
 
 - 🪩 My interested area,
-    🤖 Artificial Intelligence (Machine Learning, Deep Learning, NLP)
+    - 🤖 Artificial Intelligence (Machine Learning, Deep Learning, NLP)
 
-    🌐 Fullstack Web Development
+    - 🌐 Fullstack Web Development
 
-    🎮 Game Development (only for chilling, making cute game)
+    - 🎮 Game Development (only for chilling, making cute game)
   
 
 <h3 align="left">Connect with me:</h3>
