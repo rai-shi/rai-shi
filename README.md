@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Science** and my **Source Camera Identification** Project
 
-- 🌱 I’m currently learning **JavaScript, React** and developing my knowledge in **Machine Learning**.
+- 🌱 I’m currently learning **JavaScript, React, Game Development** and developing my knowledge in **Machine Learning**.
 
 - 📝 I regularly write articles on [my personal Medium account](https://medium.com/@aysenurtak1)
 
@@ -12,6 +12,13 @@
 - 📫 How to reach me **aysenurtak1@gmail.com**
 
 - 🪄 Fun fact **I am also an amateur photographer and an artist** so find me in [cos_micdust](https://instagram.com/cos_micdust)
+
+- 🪩 My interested area,
+    🤖 Artificial Intelligence (Machine Learning, Deep Learning, NLP)
+
+    🌐 Fullstack Web Development
+
+    🎮 Game Development (only for chilling, making cute game)
   
 
 <h3 align="left">Connect with me:</h3>
