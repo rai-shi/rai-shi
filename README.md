@@ -1,13 +1,11 @@
 <h1 align="center">Hi ✨, I'm Ayşenur TAK</h1>
 <h3 align="center">A passionate Machine Learning, Conversational AI and Fullstack Web Developer from Türkiye!</h3>
 
-- 🔭 I’m currently working on **Data Science** and my **Source Camera Identification** Project
+- 🔭 I’m currently working on **creating Python Tutorial notebook** and **creating dataset**
 
-- 🌱 I’m currently learning **JavaScript, React, Game Development** and developing my knowledge in **Machine Learning**.
+- 🌱 I’m currently learning **JavaScript, Software Design Patterns** and developing my knowledge in **Machine Learning**.
 
 - 📝 I regularly write articles on [my personal Medium account](https://medium.com/@aysenurtak1)
-
-- 💬 Ask me about **Machine Learning** and **NLP**
 
 - 📫 How to reach me **aysenurtak1@gmail.com**
 
