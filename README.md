@@ -1,15 +1,15 @@
 <h1 align="center">Hi ✨, I'm Ayşenur TAK</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer and Fullstack Web Developer from Türkiye!</h3>
 
-- 🔭 I’m currently working on **creating Python Tutorial notebook** and **creating dataset**
+- 🔭 I’m currently working on **creating Python Tutorial notebook** and **creating dataset**.
 
 - 🌱 I’m currently learning **JavaScript, Software Design Patterns** and developing my knowledge in **Machine Learning**.
 
-- 📝 I regularly write articles on [my personal Medium account](https://medium.com/@aysenurtak1)
+- 📝 I regularly write articles on [my personal Medium account](https://medium.com/@aysenurtak1).
 
-- 📫 How to reach me **aysenurtak1@gmail.com**
+- 📫 How to reach me **aysenurtak1@gmail.com**.
 
-- 🪄 Fun fact **I am also an amateur photographer and an artist** so find me in [cos_micdust](https://instagram.com/cos_micdust)
+- 🪄 Fun fact **I am also an amateur photographer and an artist** so find me in [cos_micdust](https://instagram.com/cos_micdust).
 
 - 🪩 My interested area,
     - 🤖 Artificial Intelligence (Machine Learning, Deep Learning, NLP)
