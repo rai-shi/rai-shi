@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✨, I'm Ayşenur TAK</h1>
-<h3 align="center">A passionate Machine Learning, Conversational AI and Fullstack Web Developer from Türkiye!</h3>
+<h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer and Fullstack Web Developer from Türkiye!</h3>
 
 - 🔭 I’m currently working on **creating Python Tutorial notebook** and **creating dataset**
 
