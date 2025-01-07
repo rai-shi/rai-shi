@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✨, I'm Ayşenur TAK</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer and Fullstack Web Developer from Türkiye!</h3>
 
-- 🔭 I’m currently working on **creating Python Tutorial notebook** and **creating dataset**.
+- 🔭 I’m currently working on **creating Python Tutorial notebook**.
 
 - 🌱 I’m currently learning **JavaScript, Software Design Patterns** and developing my knowledge in **Machine Learning**.
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aysenur-tak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayşenur tak" height="30" width="40" /></a>
 <a href="https://kaggle.com/ayenurtak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayenurtak" height="30" width="40" /></a>
-<a href="https://huggingface.co/ayse-nur" target="blank"><img align="center" src="https://cdn-lfs.hf.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/942cad1ccda905ac5a659dfd2d78b344fccfb84a8a3ac3721e08f488205638a0?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&Expires=1731783374&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMTc4MzM3NH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzk0MmNhZDFjY2RhOTA1YWM1YTY1OWRmZDJkNzhiMzQ0ZmNjZmI4NGE4YTNhYzM3MjFlMDhmNDg4MjA1NjM4YTA%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=ThcmBT53DjXIr6qstA9-XhlapsnWFIbzAAEUYlp-738FhGb4ueARvIOJ0b9DK7Yt33V9v347%7E6lpOIISbjGUfE1LqNxx3mLkJW-MxOrTT4WtaIvkAEoOLYPY7CAdqt766F9wwiI9lKMKdZYhW3s27Ts%7EuaUbSVQmNo1BuxJiQl0bpxWI2XkBGAsLlzq2XQVQytGBokKuwYsH8LVAZYY1eRQF6ld2g%7Efgpj-aFt5JaU0js3QCm0fNMeLcQlu3%7EqD1WQ7HvZFYebGb0Sijp1pkyuu32e6xSe3NQvH9906v9obR2RMViRxfa3lfr%7EdOMpOVL8RGDy2jxQTWNF0GcrNthg__&Key-Pair-Id=K3RPWS32NSSJCE" alt="ayse-nur" height="30" width="40" /></a>
+<a href="https://huggingface.co/ayse-nur" target="blank"><img align="center" src="icons/hf-logo.svg" alt="ayse-nur" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aysenurtak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aysenurtak1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rai_shi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rai_shi/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19162623/ayse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19162623/ayse" height="30" width="40" /></a>
