@@ -84,11 +84,12 @@
     </p>
 </div>
 
-
+ <!--
 <div style="margin: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rai-hi&show_icons=true&theme=tokyonight&title_color=FFFFFF&text_color=FFFFFF&locale=en&layout=compact" alt="rai-shi" /></p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rai-shi&show_icons=true&theme=radical&locale=en" alt="rai-shi" /></p>    
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rai-shi&theme=dark" alt="rai-shi" /></p>    
-    <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rai-shi&label=Profile%20views&color=0e75b6&style=flat" alt="rai-shi" /> </p>-->
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rai-shi&label=Profile%20views&color=0e75b6&style=flat" alt="rai-shi" /> </p>
 </div>
+-->
 
