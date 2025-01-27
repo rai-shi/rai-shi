@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Software Design Patterns** and developing my knowledge in **Machine Learning**.
 
-- 📝 I regularly write articles on [my personal Medium account](https://medium.com/@aysenurtak1).
+- 📝 I hope to regularly write articles on [my personal Medium account](https://medium.com/@aysenurtak1) :).
 
 - 📫 How to reach me **aysenurtak1@gmail.com**.
 
