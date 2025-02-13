@@ -14,9 +14,9 @@
 - 🪩 My interested area,
     - 🤖 Artificial Intelligence (Machine Learning, Deep Learning, NLP, Computer Vision)
 
-    - 🌐 Fullstack Web Development (Django & React)
+    - 🌐 Fullstack Web Development 
 
-    - 🎮 Game Development (only for chilling and making cute game, Unity, Phaser)
+    - 🎮 Game Development (only for chilling and making cute game)
   
 
 <h3 align="left">Connect with me:</h3>
