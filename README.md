@@ -1,9 +1,9 @@
 <h1 align="center">Hi ✨, I'm Ayşenur TAK</h1>
-<h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer and Fullstack Web Developer from Türkiye!</h3>
+<h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer from Türkiye!</h3>
 
 - 🔭 I’m currently working on **creating Python Tutorial notebook**.
 
-- 🌱 I’m currently learning **JavaScript, Software Design Patterns** and developing my knowledge in **Machine Learning**.
+- 🌱 I’m currently learning **Software Design Patterns** and developing my knowledge in **Machine Learning, Computer Vision**.
 
 - 📝 I hope to regularly write articles on [my personal Medium account](https://medium.com/@aysenurtak1) :).
 
@@ -14,7 +14,7 @@
 - 🪩 My interested area,
     - 🤖 Artificial Intelligence (Machine Learning, Deep Learning, NLP, Computer Vision)
 
-    - 🌐 Fullstack Web Development 
+    - 🌐 Backend Web Development (Django, RestAPI, FastAPI, Streamlit, Bootstrap)
 
     - 🎮 Game Development (only for chilling and making cute game)
   
