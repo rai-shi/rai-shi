@@ -1,3 +1,6 @@
+
+![Artıfıcıal ıntellıgence (1)](https://github.com/user-attachments/assets/1d4a5ac4-7dc6-4130-b580-9540dd274543)
+
 <h1 align="center">Hi ✨, I'm Ayşenur TAK</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer from Türkiye!</h3>
 
